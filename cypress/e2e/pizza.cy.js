@@ -1,0 +1,30 @@
+dosyalar:
+
+src/
+  assets/
+    images/
+  components/
+    layout/
+      Navbar.jsx
+      Footer.jsx
+      Container.jsx
+    sections/
+      Hero.jsx
+      Skills.jsx
+      Profile.jsx
+      Projects.jsx
+      ContactCTA.jsx
+  context/
+    AppProvider.jsx
+    appContext.js
+  data/
+    content.json
+  hooks/
+    useLocalStorage.js
+  services/
+    api.js
+  pages/
+    Home.jsx
+  App.jsx
+  main.jsx
+  index.css
